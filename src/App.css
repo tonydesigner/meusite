@@ -1,0 +1,10 @@
+.brd{border: 1px solid;}
+.topo{height: 70px; font-size: 45pt; background-color: rgb(108, 62, 1);color: #fff;font-style: italic;}
+
+.center{display: flex; justify-content: center; align-items: center;}
+.margin{display: flex; justify-content: space-around; align-items: center;}
+.space{display: flex; justify-content: space-between; align-items: center;}
+
+.base{height: 450px; background-color: red;}
+.video{width: 550px; height: 350px; background-color: green;}
+.menu{width: 250px; height: 350px; background-color: black;}
